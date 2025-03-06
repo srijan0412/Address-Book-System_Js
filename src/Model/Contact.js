@@ -8,7 +8,7 @@ class Contact {
         this.validateZip(zip);
         this.validatePhone(phone);
         this.validateEmail(email);
-        
+
         this.firstName = firstName;
         this.lastName = lastName;
         this.address = address;
